@@ -1,6 +1,10 @@
   //Perfect Pet Selector
   //Author: Faith Agbazagan
   //Date: October 14redth 2026
+  //Description:
+  //Asks the user for a favorite color (red, blue or green), a favorite
+ //season (fall, spring, winter or summer) and their name, then applies
+ //President Vermin Supreme's rules to pick their perfect pet.
 import java.util.Scanner;
 
 public class PerfectPetSelector {
