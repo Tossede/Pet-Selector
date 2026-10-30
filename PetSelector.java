@@ -64,5 +64,5 @@ public class PetSelector {
 
             System.out.println("Your perfect pet is: " + pet);
         }
-    }
+    } 
 }
